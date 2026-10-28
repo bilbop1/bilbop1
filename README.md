@@ -1,4 +1,4 @@
-<img src="./header-v2.svg" alt="ASCII portrait of Bilbop alongside profile information" width="930">
+<img src="./header-v3.svg" alt="ASCII portrait of Bilbop alongside profile information" width="930">
 
 
 ## About
@@ -11,10 +11,10 @@ I’m Bilbop. I make videos, work with voices, and build tools that help creator
 
 ## Featured Projects
 
-| Project | What it does |
-| --- | --- |
-| [Voice Field Guide](https://voicefieldguide.com/) | Voice demos, casting guidance, and practical resources. |
-| [Prestige Voices](https://github.com/bilbop1/prestige-voices) | Explore and audition voices for a project. |
-| [moneyprinter-md](https://github.com/bilbop1/moneyprinter-md) | Turn AI work into a focused action plan. |
+| Project | Description | Stars |
+| --- | --- | --- |
+| [Voice Field Guide](https://voicefieldguide.com/) | Voice demos, casting guidance, and practical resources. | — |
+| [Prestige Voices](https://github.com/bilbop1/prestige-voices) | Explore and audition voices for a project. | 1 |
+| [moneyprinter-md](https://github.com/bilbop1/moneyprinter-md) | Turn AI work into a focused action plan. | 2 |
 
 [Explore my repositories](https://github.com/bilbop1?tab=repositories)
