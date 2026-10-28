@@ -1,4 +1,4 @@
-<img src="./header.svg" alt="ASCII portrait of Bilbop alongside profile information" width="930">
+<img src="./header-v2.svg" alt="ASCII portrait of Bilbop alongside profile information" width="930">
 
 
 ## About
