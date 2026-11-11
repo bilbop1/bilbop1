@@ -18,3 +18,7 @@ I’m Bilbop. I make videos, work with voices, and build tools that help creator
 | [moneyprinter-md](https://github.com/bilbop1/moneyprinter-md) | Turn AI work into a focused action plan. | 2 |
 
 [Explore my repositories](https://github.com/bilbop1?tab=repositories)
+
+I am William Anderson, a voice creator working as Bilbop. I built [Voice Field Guide](https://voicefieldguide.com) for my 15 ElevenLabs Professional Voice Clones. You can hear samples and read casting notes.
+
+[Bilbop](https://bilbop.org) | [LinkedIn](https://www.linkedin.com/in/williamanderson12/)
