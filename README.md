@@ -1,9 +1,8 @@
 <img src="./header-new-photo-tight.svg" alt="ASCII portrait of Bilbop alongside profile information" width="930">
 
-
 ## About
 
-I’m Bilbop. I make videos, work with voices, and build tools that help creators turn ideas into things people can actually use. I like experimenting with AI agents, automation, and the messy work of making a creative workflow more useful.
+I'm Bilbop. I make videos, work with voices, and build tools that help creators turn ideas into things people can actually use. I like experimenting with AI agents, automation, and the messy work of making a creative workflow more useful.
 
 ## Tech Stack
 
@@ -19,6 +18,6 @@ I’m Bilbop. I make videos, work with voices, and build tools that help creator
 
 [Explore my repositories](https://github.com/bilbop1?tab=repositories)
 
-I am William Anderson, a voice creator working as Bilbop. I built [Voice Field Guide](https://voicefieldguide.com) for my 15 ElevenLabs Professional Voice Clones. You can hear samples and read casting notes.
+I built [Voice Field Guide](https://voicefieldguide.com) for my 15 ElevenLabs voices. Hear samples and read casting notes.
 
-[Bilbop](https://bilbop.org) | [LinkedIn](https://www.linkedin.com/in/williamanderson12/)
+[Bilbop](https://bilbop.org)
